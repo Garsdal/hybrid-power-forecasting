@@ -1,0 +1,22 @@
+{
+    "wind": 
+    {
+        "max_depth": 59,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "n_estimators": 116
+    },
+    "solar":
+    {
+        "max_depth": 100,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "n_estimators": 180
+    },
+    "agr": {
+        "max_depth": 27,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "n_estimators": 134
+    }
+}

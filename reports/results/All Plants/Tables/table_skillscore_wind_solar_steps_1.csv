@@ -1,0 +1,9 @@
+Method;Model;Nazeerabad;HPP1;HPP2;HPP3
+Wind;LGB;6.53;7.11;-3.75;6.45
+Wind;LSTM;17.98;41.14;-4.3;38.38
+Wind;RF;51.93;39.17;29.46;50.67
+Wind;PST;58.7;60.37;30.65;56.68
+Solar;LGB;;;;79.85
+Solar;LSTM;;;;48.54
+Solar;RF;;;;-31.69
+Solar;PST;;;;67.66

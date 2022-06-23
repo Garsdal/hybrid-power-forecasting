@@ -1,0 +1,6 @@
+;Nazeerabad;HPP1;HPP2;HPP3
+values_cnt;9809.0;42569;15168;35614
+anomaly_rmv_cnt_outlier;;0;0;88
+anomaly_rmv_cnt_flatliner;;495;0;1651
+rmv_sum;1176.0;495;0;1739
+rmv_frac;11.99;1.16;0.0;4.88

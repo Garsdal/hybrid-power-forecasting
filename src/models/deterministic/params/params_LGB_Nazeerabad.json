@@ -1,0 +1,22 @@
+{
+    "wind": 
+    {
+        "max_depth": 8,
+        "feature_fraction": 1,
+        "num_leaves": 61,
+        "num_iterations": 62
+    },
+    "solar":
+    {
+        "max_depth": 8,
+        "feature_fraction": 0.4,
+        "num_leaves": 2,
+        "num_iterations": 337
+    },
+    "agr":{
+        "max_depth": 17,
+        "feature_fraction": 0.4,
+        "num_leaves": 12,
+        "num_iterations": 453
+    }
+}

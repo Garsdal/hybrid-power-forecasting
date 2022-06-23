@@ -1,0 +1,17 @@
+Model;Parameter;Nazeerabad;HPP1;HPP2;HPP3
+LGB;max_depth;8;16.0;5.0;6.0
+LGB;feature_fraction;1;0.4;0.2;0.8
+LGB;num_leaves;61;4.0;2.0;3.0
+LGB;num_iterations;62;423.0;288.0;404.0
+LSTM;activation;tanh;tanh;tanh;tanh
+LSTM;n_lag;144;144;144;144
+LSTM;epochs;20;20;20;20
+LSTM;batch_size;1500;1500;1500;1500
+LSTM;lr;0.01;0.01;0.01;0.01
+LSTM;neurons_l1;75;125;25;125
+LSTM;neurons_l2;50;75;50;100
+LSTM;neurons_l3;50;70;30;30
+RF;max_depth;90;31;41;59
+RF;min_samples_leaf;1;1;1;1
+RF;min_samples_split;2;2;2;2
+RF;n_estimators;197;194;27;116

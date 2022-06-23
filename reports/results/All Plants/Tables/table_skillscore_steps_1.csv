@@ -1,0 +1,9 @@
+Method;Model;Nazeerabad;HPP1;HPP2;HPP3
+Wind + Solar;LGB;-131.65;7.19;-4.18;5.01
+Wind + Solar;LSTM;-75.43;39.64;-3.67;33.77
+Wind + Solar;RF;-0.77;38.4;29.19;48.96
+Wind + Solar;PST;-0.55;60.76;30.38;56.17
+Aggregated;LGB;1.07;9.5;-6.13;5.3
+Aggregated;LSTM;-4.42;29.88;-15.83;17.61
+Aggregated;RF;38.01;29.51;21.3;32.09
+Aggregated;PST;57.96;60.74;30.38;56.88

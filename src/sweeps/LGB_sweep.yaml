@@ -1,0 +1,32 @@
+program: src/sweeps/LGB_sweep.py
+command:
+  - ${env}
+  - python3
+  - ${program}
+  - ${args}
+method: bayes
+metric:
+  goal: minimize
+  name: MSE_val
+parameters:
+  plant:
+    value: "HPP3"
+  tech: 
+    value: "agr"
+  max_depth:
+    min: 5
+    max: 20
+  feature_fraction:
+    values: [0.2, 0.4, 0.6, 0.8, 1]
+  num_leaves:
+    min: 1
+    max: 100
+  num_iterations:
+    min: 50
+    max: 500
+
+early_terminate:
+  type: hyperband
+  s: 2
+  eta: 3
+  max_iter: 50
