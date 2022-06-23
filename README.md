@@ -1,7 +1,7 @@
 # Hybrid_Forecasts
 ==============================
 
-This project will cover the hybrid power forecasting as a part of my MSc thesis. 
+This project contain all work and results related to my Master Thesis named 'Hybrid Power Forecasting'. 
 In this repository the data/ folder has not been included due to a NDA. This results in majority of the scripts not working. I will provide public test data in the near future, such that models and methods implemented can be tested.
 
 The repository still contains predictions made for all models implemented. These predictions are included in different notebooks, but 'aggregate_model_results.ipyndb' can be run without any data available. Create a new environment, install the requirements.txt and you should be able to run the notebook to see the forecasts.
